@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AutoProfile</string>
+    <string name="run">Running</string>
+    <string name="stop">Stopped</string>
+</resources>
